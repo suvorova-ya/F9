@@ -15,4 +15,5 @@ python server.py
 
 API проекта будет доступно по адресам:
 http://localhost:6969
+или
 http://127.0.0.1:6969/
